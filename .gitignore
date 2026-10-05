@@ -1,0 +1,18 @@
+# Database files
+leads.db
+*.db
+*.sqlite3
+
+# Python cache & bytecode
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env*
+
+# OS metadata
+.DS_Store
